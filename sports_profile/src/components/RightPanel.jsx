@@ -37,8 +37,35 @@ function RightPanel() {
                 </ul>
 
             </section>
+
+            <section title="TRAINING POSITIONS">
+                <h3>Main Focus</h3>
+
+                <ul>
+                    <li>Point Guards</li>
+                    <li>Small Forwards</li>
+                    <li>Team Strategists</li>
+                </ul>
+
+                <h3>Also</h3>
+
+                <ul>
+                    <li>Trains all basketball positions</li>
+                </ul>
+
+            </section>
+
+            <Section title="ACCOLADES">
+
+            <p>
+                <strong>MVP 2022</strong>, renowned for exceptional
+                3-point shooting skills.
+            </p>
+
+        </Section>
+
         </div>
-    )
+    );
 }
 
 export default RightPanel;
