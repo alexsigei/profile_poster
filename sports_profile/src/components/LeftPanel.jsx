@@ -7,6 +7,8 @@ function LeftPanel() {
 
             <img src={ken} alt="Ken Wachira" className="hero-image"/>
 
+            <div className="gradient"></div>
+            
             <div className="overlay">
 
                 <h1>
