@@ -4,7 +4,7 @@ function RightPanel() {
     return (
         <div className="right-panel">
 
-            <section title="DECISICVE MOVES SPECIALIST">
+            <Section title="DECISICVE MOVES SPECIALIST">
                 <h3>Strength</h3>
 
                 <p>
@@ -19,9 +19,9 @@ function RightPanel() {
                     Reading the game, making decisive moves, excellent 3-point shoooting.
                 </p>
 
-            </section>
+            </Section>
 
-            <section title="VISIONARY INSIGHTS">
+            <Section title="VISIONARY INSIGHTS">
 
                 <h3>Coaching Focus</h3>
 
@@ -36,9 +36,9 @@ function RightPanel() {
                     <li>Rapid decision-making drills</li>
                 </ul>
 
-            </section>
+            </Section>
 
-            <section title="TRAINING POSITIONS">
+            <Section title="TRAINING POSITIONS">
                 <h3>Main Focus</h3>
 
                 <ul>
@@ -53,7 +53,7 @@ function RightPanel() {
                     <li>Trains all basketball positions</li>
                 </ul>
 
-            </section>
+            </Section>
 
             <Section title="ACCOLADES">
 
